@@ -1,6 +1,4 @@
 Concepts Demonstrated in this section:
-
-
 • Executing SQL Statements on a database
 
 
