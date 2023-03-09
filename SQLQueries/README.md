@@ -1,4 +1,7 @@
 Concepts Demonstrated in this section:
+
+[Notebook](SQLQueries.ipynb)
+
 • Executing SQL Statements on a database
 
 
