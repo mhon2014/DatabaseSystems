@@ -1,4 +1,6 @@
-Concepts Demonstrated:
+[Notebook](AWSSQL.ipynb)
+
+### Concepts Demonstrated:
 
 • Reducing an ER Diagram into tables
 
