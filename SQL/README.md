@@ -18,3 +18,7 @@
 
 
 – Issuing DDL statements on a cloud-based database (AWS RDS)
+
+
+
+![diagram](diagram.png "ER diagram")
