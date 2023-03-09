@@ -1,4 +1,4 @@
-Concepts Demonstrated in this section:
+### Concepts Demonstrated in this section:
 
 [Notebook](SQLQueries.ipynb)
 
