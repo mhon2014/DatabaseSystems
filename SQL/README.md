@@ -1,4 +1,4 @@
-### Key Concepts Demonstrated
+### Key Concepts Demonstrated in this folder:
 • Executing DDL Statements on a database
 
 
