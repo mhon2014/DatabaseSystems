@@ -1,4 +1,8 @@
 ### Key Concepts Demonstrated in this section:
+
+[Notebook](SQL.ipynb)
+
+
 • Executing DDL Statements on a database
 
 
