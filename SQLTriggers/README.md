@@ -1,5 +1,9 @@
 ### Concepts Demonstrated:
  
+ 
+ Notebook: [here](SQLTriggers.ipynb)
+
+  
 
 • Executing SQL Statements on a database
 
